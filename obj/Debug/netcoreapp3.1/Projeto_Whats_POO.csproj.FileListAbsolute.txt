@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\bin\Debug\netcoreapp3.1\Projeto_Whats_POO.exe
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\bin\Debug\netcoreapp3.1\Projeto_Whats_POO.deps.json
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\bin\Debug\netcoreapp3.1\Projeto_Whats_POO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\bin\Debug\netcoreapp3.1\Projeto_Whats_POO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\bin\Debug\netcoreapp3.1\Projeto_Whats_POO.dll
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\bin\Debug\netcoreapp3.1\Projeto_Whats_POO.pdb
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\obj\Debug\netcoreapp3.1\Projeto_Whats_POO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\obj\Debug\netcoreapp3.1\Projeto_Whats_POO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\obj\Debug\netcoreapp3.1\Projeto_Whats_POO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\obj\Debug\netcoreapp3.1\Projeto_Whats_POO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\obj\Debug\netcoreapp3.1\Projeto_Whats_POO.dll
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\obj\Debug\netcoreapp3.1\Projeto_Whats_POO.pdb
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_POO\obj\Debug\netcoreapp3.1\Projeto_Whats_POO.genruntimeconfig.cache
